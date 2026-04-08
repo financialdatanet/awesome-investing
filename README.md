@@ -192,7 +192,7 @@
 -   [Portfolio Visualizer](https://portfoliovisualizer.com) - Run Portfolio Backtests/Simulations
 -   [Find My Moat](https://findmymoat.com/) - Investing Tools Directory
 -   [CalcFi](https://calcfi.app/) - 312+ free financial calculators (compound interest, FIRE number, retirement, investment returns, tax brackets). No signup, no ads.
-
+-   [FinancialData.Net](https://financialdata.net/) - Stock market data, financial statements, insider and institutional trading data, and much more
 ---
 
 ## License
